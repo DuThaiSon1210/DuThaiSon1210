@@ -39,7 +39,7 @@ namespace thaison1210.Controllers
             }
             return View(khachHang);
         }
-
+        //ss
         // GET: KhachHangs/Create
         public ActionResult Create()
         {
